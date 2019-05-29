@@ -94,30 +94,13 @@
 import javafx.animation.*;
 import javafx.application.Application;
 import javafx.scene.Scene;
-import javafx.scene.paint.*;
 import javafx.stage.Stage;
-import java.io.File;
-import java.io.IOException;
 import java.util.Scanner;
 import javafx.scene.shape.*;
-import javafx.scene.layout.*;
-
-import javafx.application.Application;
-import javafx.scene.Scene;
 import javafx.scene.layout.Pane;
-import javafx.scene.paint.Color;
-import javafx.scene.shape.*;
-import javafx.stage.Stage;
 import javafx.util.*;
-
-import javafx.application.Application;
-import javafx.scene.Scene;
-import javafx.scene.layout.Pane;
-import javafx.scene.paint.Color;
-import javafx.scene.shape.*;
 import javafx.scene.text.*;
-import javafx.stage.Stage;
-import javafx.util.*;
+
 
 
 public class Main extends Application {
